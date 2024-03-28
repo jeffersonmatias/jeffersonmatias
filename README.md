@@ -1,4 +1,4 @@
-#hello, i'm Jefferson Carvalho, Front-end developer!
+<h1>hello, i'm Jefferson Carvalho, Front-end developer!</h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -8,7 +8,7 @@
   <img align="center" alt="Jeff-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
   
-  ##Contato
+  <h2>Contato</h2>
 
   <div> 
   <a href = "https://jeffersoncarvalho.tech"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=portfoliol&logoColor=white" target="_blank"></a>
